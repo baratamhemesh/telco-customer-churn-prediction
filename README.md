@@ -1,3 +1,4 @@
+<img width="1058" height="598" alt="Screenshot 2025-11-25 130610" src="https://github.com/user-attachments/assets/3c23a29e-a33e-4363-b6d8-9d1224cb7da1" />
 Telco Customer Churn Prediction
 Overview
 
@@ -64,3 +65,4 @@ Result
 
 
 This project demonstrates how machine learning and analytics can be used together to identify churn risks, guide customer retention strategies, and support data-driven decision-making.
+
